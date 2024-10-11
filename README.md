@@ -7,7 +7,7 @@ I am a **boy** and a frontend developer with the following skills:
 - Team Collaboration.
 - Making people smile/laugh 🙂😎.
 
-I have interests in, **Cryptography**, **Mathematics** (specifically *Number Theory* and *Linear Algebra* don't get me wrong here 😂), **Learning new things**.
+I have interests in, **Cryptography**, **Mathematics** (specifically *Number Theory* and *Linear Algebra* don't get me wrong here 😂) and **Learning new things**.
 
 Currently I'm not working on anything new. And I'm always open to collaborate on exciting projects.
 
