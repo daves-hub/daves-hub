@@ -9,10 +9,7 @@ I am a **boy** and a frontend developer with the following skills:
 
 I have interests in, **Cryptography**, **Mathematics** (specifically *Number Theory* and *Linear Algebra* don't get me wrong here 😂) and **Learning new things**.
 
-Currently I'm not working on anything new. And I'm always open to collaborate on exciting projects.
-
-### Fun Fact:
-   I didn't expect to get this far in this description 🥲
+It's my final year and I got a remote job. It's projects everywhere \<too lazy to put an emoji here\>
 <!--
 **IghaloGenesisOsasenaga/IghaloGenesisOsasenaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
