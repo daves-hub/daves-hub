@@ -1,26 +1,21 @@
 ## Who lives in a pineapple under the sea?
-If you said *SpongeBob SquarePants*, you're not allowed to read this 🧐. Just kidding 😂.
 
-I am a **boy** and a frontend developer with the following skills:
-- Responsive Web App development (React, HTML, JavaScript, CSS, BootstrapCSS)
-- Competitive programming (Python, JavaScript, C++, Kotlin)
-- Team Collaboration.
-- Making people smile/laugh 🙂😎.
+If you said *SpongeBob SquarePants*, you're not allowed to read this 🧐.
+Just kidding 😂.
 
-I have interests in, **Cryptography**, **Mathematics** (specifically *Number Theory* and *Linear Algebra* don't get me wrong here 😂) and **Learning new things**.
+I'm **Genesis**, a Computer Science student and **full-stack developer** who likes building things and solving problems.
 
-It's my final year and I got a remote job. It's projects everywhere \<too lazy to put an emoji here\>
-<!--
-**IghaloGenesisOsasenaga/IghaloGenesisOsasenaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
 
-Here are some ideas to get you started:
+* Full-stack web development — React, Next.js, TypeScript, Node.js, etc.
+* Competitive programming — C++, Python, JavaScript, Kotlin
+* Cryptography & security
+* Mathematics — especially Number Theory and Linear Algebra
+* Team collaboration
+* Making people laugh because apparently that's a skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also interested in **algorithms, software engineering, and learning how things actually work** instead of just making them work somehow.
+
+Currently finishing my Computer Science degree while juggling school, work, personal projects, and an unreasonable number of tabs.
+
+It's projects everywhere. 💀
