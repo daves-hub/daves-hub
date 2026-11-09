@@ -31,9 +31,9 @@ I enjoy the problem-solving side of programming. Codeforces is where I spend mos
 </p>GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daves-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daves-hub&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p><p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=daves-hub&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daves-hub&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
   <img src="https://streak-stats.demolab.com?user=daves-hub&theme=github-dark-blue&hide_border=true" width="70%" />
 </p><p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daves-hub&theme=github-compact&hide_border=true" width="100%" />
