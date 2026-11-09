@@ -1,83 +1,54 @@
-Hey, I'm Genesis 👋
+Hey, I'm Genesis.
 
-Developer · Problem Solver · Curious Mind
+I'm a software developer who enjoys building things for the web. Most of my work is around React and Next.js, and I spend a good amount of time thinking about how to structure applications, build reusable interfaces, and make things work properly beyond just what's on the screen.
 
-I build web applications, explore how software works under the hood, and occasionally get into arguments with algorithms.
+Outside work, I'm usually solving problems on Codeforces, exploring something in computer science, or experimenting with an idea I've had.
 
-I'm particularly interested in frontend engineering, building intuitive user experiences, and writing software that's structured, maintainable, and actually makes sense.
+I'm still figuring things out, and there's always something new to learn.
 
-Currently working towards becoming a better software engineer, one project, one problem, and one bug at a time.
+What I'm working with
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,postgres,git,github&perline=10" />
+</p>Most of my experience is on the frontend, but I'm also interested in backend development, software architecture, and understanding how different parts of an application fit together.
 
-🛠️ What I work with
+Currently interested in
 
-Frontend
+- Getting better at software engineering beyond just writing code.
+- Data structures and algorithms (mostly through competitive programming).
+- Software architecture and system design.
+- Exploring Manim by animating algorithms and problem solutions.
+- Building projects, experimenting with ideas, and learning along the way.
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- shadcn/ui
+Competitive programming
 
-Backend & Tools
+I enjoy the problem-solving side of programming. Codeforces is where I spend most of my time testing my algorithmic thinking.
 
-- Node.js
-- Bun
-- Hono
-- PostgreSQL
-- Drizzle ORM
-- Git & GitHub
-
-Also exploring
-
-- Software architecture & system design
-- Data structures and algorithms
-- Manim and algorithm visualization
-
----
-
-🧠 Beyond building interfaces
-
-I enjoy competitive programming and solving algorithmic problems.
-
-I'm on "Codeforces" (https://codeforces.com/profile/daveshub), where I challenge myself with problems that force me to think beyond the obvious solution.
-
-I also have an interest in mathematics, computer science fundamentals, and understanding the reasoning behind the tools and abstractions we use every day.
-
-One of my current experiments is using Manim to animate competitive programming algorithms. Because sometimes the best way to understand an algorithm is to watch it work.
-
----
-
-📊 A little GitHub activity
+<p align="center">
+  <a href="https://codeforces.com/profile/daveshub">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=daveshub&theme=dark" alt="Codeforces Stats" />
+  </a>
+</p>GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daves-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daves-hub&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daves-hub&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=daves-hub&theme=github-dark-blue&hide_border=true" width="70%" />
-</p>---
-
-♟️ Outside the editor
-
-- Playing chess (and occasionally blundering my queen).
-- Exploring mathematics and computer science.
-- Learning how things work instead of just learning how to use them.
-- Enjoying a good anime.
-
----
-
-🌐 Find me around the internet
-
-- Portfolio: "daveshub.vercel.app" (https://daveshub.vercel.app)
-- GitHub: "@daves-hub" (https://github.com/daves-hub)
-- Codeforces: "@daveshub" (https://codeforces.com/profile/daveshub)
-
----
-
-<p align="center">
-  <i>"First, understand the problem. Then write the code."</i>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daves-hub&style=flat&color=blue" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daves-hub&theme=github-compact&hide_border=true" width="100%" />
+</p>A few other things
+
+- ♟️ Chess is another way I enjoy challenging myself.
+- 📐 I like mathematics and the ideas behind computer science.
+- 🎬 Anime is usually somewhere in the mix.
+
+Find me elsewhere
+
+<p align="left">
+  <a href="https://daveshub.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/daves-hub">GitHub</a> ·
+  <a href="https://codeforces.com/profile/daveshub">Codeforces</a>
+</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daves-hub&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 </p>
