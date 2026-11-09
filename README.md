@@ -9,7 +9,7 @@ I'm still figuring things out, and there's always something new to learn.
 What I'm working with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,postgres,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,postgres,tex,git,github&perline=10" />
 </p>Most of my experience is on the frontend, but I'm also interested in backend development, software architecture, and understanding how different parts of an application fit together.
 
 Currently interested in
