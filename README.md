@@ -1,4 +1,4 @@
-Hey, I'm Genesis.
+# Hey, I'm Genesis.
 
 I'm a software developer who enjoys building things for the web. Most of my work is around React and Next.js, and I spend a good amount of time thinking about how to structure applications, build reusable interfaces, and make things work properly beyond just what's on the screen.
 
