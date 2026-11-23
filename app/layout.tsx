@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: "daveshub.vercel.app",
     images: [
       {
-        url: "./og-image.jpeg",
+        url: `${process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000"}/og-image.jpeg`,
         width: 1200,
         height: 630,
         alt: "Genesis Osasenaga Ighalo — Full-Stack Developer",
