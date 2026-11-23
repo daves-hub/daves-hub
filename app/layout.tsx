@@ -19,26 +19,29 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Genesis Osasenaga Ighalo - Fullstack Developer",
+  title: "Genesis Osasenaga Ighalo - Full-Stack Developer",
   description:
     "Fullstack Developer specialising in web development with React, Next.js, Typescript and Python. Based in Benin City, Nigeria.",
   openGraph: {
-    title: "Genesis Osasenaga Ighalo - Fullstack Developer",
+    title: "Genesis Osasenaga Ighalo - Full-Stack Developer",
     description:
       "Fullstack Developer specialising in web development with React, Next.js, Typescript and Python. Based in Benin City, Nigeria.",
-    url: "https://daves-hub.github.io",
-    siteName: "Genesis Osasenaga Ighalo - Fullstack Developer",
+    url: process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
+    siteName: "daveshub.vercel.app",
     images: [
       {
-        url: "https://daves-hub.github.io/images/og-image.png",
+        url: "./og-image.jpeg",
         width: 1200,
         height: 630,
+        alt: "Genesis Osasenaga Ighalo — Full-Stack Developer",
       },
     ],
     locale: "en_US",
     type: "website",
   },
-  metadataBase: new URL("https://daves-hub.github.io"),
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
+  ),
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
