@@ -1,0 +1,53 @@
+import type { Metadata } from "next";
+import { Geist, Geist_Mono, Newsreader } from "next/font/google";
+import "./globals.css";
+
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
+
+const newsReader = Newsreader({
+  variable: "--font-newsreader",
+  subsets: ["latin"],
+  style: ["normal", "italic"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export const metadata: Metadata = {
+  title: "Genesis Osasenaga Ighalo - Fullstack Developer",
+  description:
+    "Fullstack Developer specialising in web development with React, Next.js, Typescript and Python. Based in Benin City, Nigeria.",
+  openGraph: {
+    title: "Genesis Osasenaga Ighalo - Fullstack Developer",
+    description:
+      "Fullstack Developer specialising in web development with React, Next.js, Typescript and Python. Based in Benin City, Nigeria.",
+    url: "https://daves-hub.github.io",
+    siteName: "Genesis Osasenaga Ighalo - Fullstack Developer",
+    images: [
+      {
+        url: "https://daves-hub.github.io/images/og-image.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  metadataBase: new URL("https://daves-hub.github.io"),
+};
+
+export default function RootLayout({ children }: LayoutProps<"/">) {
+  return (
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} ${newsReader.variable} h-full antialiased`}
+    >
+      <body className="min-h-full flex flex-col">{children}</body>
+    </html>
+  );
+}

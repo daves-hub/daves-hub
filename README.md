@@ -9,7 +9,7 @@ I'm still figuring things out, and there's always something new to learn.
 ## What I'm working with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,postgres,latex,git,github&perline=10" alt="Technologies I work with" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,tailwind,nodejs,bun,postgres,latex,git,github&perline=10" alt="Technologies I work with" />
 </p>
 
 Most of my experience is on the frontend, but I'm also interested in backend development, software architecture, and understanding how different parts of an application fit together.
