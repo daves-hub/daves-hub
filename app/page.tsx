@@ -258,7 +258,7 @@ export default async function Home() {
               .vercel.app
             </span>
           </Link>
-          <div className="flex items-center gap-5 text-zinc-500 dark:text-zinc-400">
+          <div className="flex items-center gap-3 sm:gap-5 text-zinc-500 dark:text-zinc-400">
             <Link
               href="#experience"
               className="transition-colors hover:text-zinc-900 dark:hover:text-zinc-100"
