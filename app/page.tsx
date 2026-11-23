@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { cn } from "cn";
 
 function formatDuration(startDateStr: string, endDateStr?: string): string {
   const start = new Date(startDateStr);
@@ -360,9 +361,13 @@ export default async function Home() {
         {/* Live Stats Strip */}
         <section
           aria-label="Live developer metrics"
-          className="grid grid-cols-2 divide-y divide-zinc-200/80 rounded-xl border border-zinc-200/80 bg-white/60 py-4 backdrop-blur-sm sm:grid-cols-4 sm:divide-x  dark:divide-zinc-800/80 dark:border-zinc-800/80 dark:bg-zinc-900/40"
+          className={cn(
+            "grid grid-cols-2 divide-x divide-zinc-200/80 rounded-xl border border-zinc-200/80",
+            "bg-white/60 py-4 backdrop-blur-sm sm:grid-cols-4  dark:divide-zinc-800/80",
+            "dark:border-zinc-800/80 dark:bg-zinc-900/40",
+          )}
         >
-          <div className="px-4 py-2 text-center sm:py-0">
+          <div className="px-4 py-2 text-center sm:py-0 border-b sm:border-b-0">
             <div className="font-serif text-2xl italic text-zinc-900 dark:text-zinc-100">
               {totalExperience}
             </div>
@@ -371,7 +376,7 @@ export default async function Home() {
             </div>
           </div>
 
-          <div className="px-4 py-2 text-center sm:py-0">
+          <div className="px-4 py-2 text-center sm:py-0 border-b sm:border-b-0">
             <div className="font-serif text-2xl italic text-zinc-900 dark:text-zinc-100">
               {stats.cfSolved}
             </div>
